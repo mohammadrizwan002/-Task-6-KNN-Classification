@@ -1,4 +1,4 @@
-Task 6 - K-Nearest Neighbors (KNN) Classification
+Task 6 - K-Nearest Neighbors (KNN) Classification (ELEVATE LABS AIML INTERNSHIP JUNE-2025)
 
 This project is part of my AI & ML internship and focuses on implementing the K-Nearest Neighbors (KNN) algorithm for classification using the Iris dataset.
 
